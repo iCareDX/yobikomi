@@ -1,0 +1,41 @@
+{
+    "location": "江東区",
+    "today": {
+        "date": "02-05(水)",
+        "forecasts": [
+            {
+                "weather": "晴",
+                "high_temp": "9℃",
+                "high_temp_diff": "[-1]",
+                "low_temp": "0℃",
+                "low_temp_diff": "[-4]",
+                "rain_probability": {
+                    "0時〜6時": "---",
+                    "6時〜12時": "10%",
+                    "12時〜18時": "20%",
+                    "18時〜24時": "0%"
+                },
+                "wind_wave": "北西の風　後　西の風やや強く"
+            }
+        ]
+    },
+    "tomorrow": {
+        "date": "02-06(木)",
+        "forecasts": [
+            {
+                "weather": "晴",
+                "high_temp": "10℃",
+                "high_temp_diff": "[0]",
+                "low_temp": "1℃",
+                "low_temp_diff": "[0]",
+                "rain_probability": {
+                    "0時〜6時": "0%",
+                    "6時〜12時": "0%",
+                    "12時〜18時": "10%",
+                    "18時〜24時": "0%"
+                },
+                "wind_wave": "南西の風　後　西の風"
+            }
+        ]
+    }
+}

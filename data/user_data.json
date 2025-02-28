@@ -1,0 +1,92 @@
+{
+    "urakawa": {
+        "id": "urakawa",
+        "name": "うらかわ",
+        "image": "urakawa.jpg",
+        "feature": "urakawa.npy",
+        "gender": "female",
+        "age": "(0-2)",
+        "category": "girl",
+        "interested": "PC"
+    },
+    "ozaki": {
+        "id": "ozaki",
+        "name": "おざき",
+        "image": "ozaki.jpg",
+        "feature": "ozaki.npy",
+        "gender": "male",
+        "age": "(25-32)",
+        "category": "man",
+        "interested": ""
+    },
+    "numao": {
+        "id": "numao",
+        "name": "ぬまお",
+        "image": "numao.jpg",
+        "feature": "numao.npy",
+        "gender": "male",
+        "age": "(48-53)",
+        "category": "man",
+        "interested": ""
+    },
+    "nakamura": {
+        "id": "nakamura",
+        "name": "なかむら",
+        "image": "nakamura.jpg",
+        "feature": "nakamura.npy",
+        "gender": "male",
+        "age": "(8-12)",
+        "category": "boy",
+        "interested": ""
+    },
+    "yamamoto": {
+        "id": "yamamoto",
+        "name": "やまもと",
+        "image": "yamamoto.jpg",
+        "feature": "yamamoto.npy",
+        "gender": "female",
+        "age": "(25-32)",
+        "category": "woman",
+        "interested": ""
+    },
+    "noguchijunko": {
+        "id": "noguchijunko",
+        "name": "のぐちじゅんこ",
+        "image": "noguchijunko.jpg",
+        "feature": "noguchijunko.npy",
+        "gender": "male",
+        "age": "(60-100)",
+        "category": "man",
+        "interested": ""
+    },
+    "takiya": {
+        "id": "takiya",
+        "name": "たきや",
+        "image": "takiya.jpg",
+        "feature": "takiya.npy",
+        "gender": "female",
+        "age": "(25-32)",
+        "category": "woman",
+        "interested": "お菓子"
+    },
+    "kiyota": {
+        "id": "kiyota",
+        "name": "きよた",
+        "image": "kiyota.jpg",
+        "feature": "kiyota.npy",
+        "gender": "male",
+        "age": "(0-2)",
+        "category": "boy",
+        "interested": "お菓子"
+    },
+    "youshiki": {
+        "id": "youshiki",
+        "name": "ようしき",
+        "image": "youshiki.jpg",
+        "feature": "youshiki.npy",
+        "gender": "male",
+        "age": "(25-32)",
+        "category": "man",
+        "interested": "basketball"
+    }
+}
